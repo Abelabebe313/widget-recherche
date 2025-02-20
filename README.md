@@ -1,7 +1,7 @@
 # Deploy token 
 ```yaml 
-deployToken: deploy-token-1004985
-password: pZ7VgFyAxka6bCxkxLQz
+deployToken:
+password:
 
 ```
 
